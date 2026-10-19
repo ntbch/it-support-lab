@@ -1,0 +1,17 @@
+Notice: Running in MOCK mode (simulating Android test device audit)...
+Scanning for connected mobile test units...
+
+============================================================
+📱 Mobile Test Unit Audit Card — IT Hardware Service
+============================================================
+
+- Device:       Samsung Galaxy S22 5G (SM-S901B)
+- Serial (UID): R5CR10ABCDE
+- OS Version:   Android 14 (API Level 34)
+- Build:        UP1A.231005.007.S901BXXU7DXE5
+- Wi-Fi IP:     192.168.10.45
+- Storage:      84 GB (65% available) free of 128 GB
+- Battery:      92% | Health: Good | Temp: 31.4°C
+
+Audit record exported to: evidence/04-android-audit-MOCK.json
+============================================================

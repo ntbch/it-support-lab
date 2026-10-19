@@ -1,0 +1,4 @@
+.env
+*.iso
+*.qcow2
+.lab-credentials.json
